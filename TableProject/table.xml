@@ -1,0 +1,80 @@
+<vehicles>
+	<vehicle>
+		<NázevModelu type="String">Škoda Oktávia</NázevModelu>
+		<DatumProdeje type="DateTime">2.12.2010</DatumProdeje>
+		<Cena type="Double">500000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Felicia</NázevModelu>
+		<DatumProdeje type="DateTime">3.12.2000</DatumProdeje>
+		<Cena type="Double">210000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Fabia</NázevModelu>
+		<DatumProdeje type="DateTime">4.12.2010</DatumProdeje>
+		<Cena type="Double">350000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Oktávia</NázevModelu>
+		<DatumProdeje type="DateTime">4.12.2010</DatumProdeje>
+		<Cena type="Double">500000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Oktávia</NázevModelu>
+		<DatumProdeje type="DateTime">5.12.2010</DatumProdeje>
+		<Cena type="Double">500000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Fabia</NázevModelu>
+		<DatumProdeje type="DateTime">5.12.2010</DatumProdeje>
+		<Cena type="Double">350000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Fabia</NázevModelu>
+		<DatumProdeje type="DateTime">6.12.2010</DatumProdeje>
+		<Cena type="Double">350000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Forman</NázevModelu>
+		<DatumProdeje type="DateTime">4.12.2000</DatumProdeje>
+		<Cena type="Double">100000</Cena>
+		<DPH type="Double">19</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Favorit</NázevModelu>
+		<DatumProdeje type="DateTime">5.12.2000</DatumProdeje>
+		<Cena type="Double">80000</Cena>
+		<DPH type="Double">19</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Forman</NázevModelu>
+		<DatumProdeje type="DateTime">6.12.2000</DatumProdeje>
+		<Cena type="Double">100000</Cena>
+		<DPH type="Double">19</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Felicia</NázevModelu>
+		<DatumProdeje type="DateTime">3.12.2000</DatumProdeje>
+		<Cena type="Double">210000</Cena>
+		<DPH type="Double">19</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Felicia</NázevModelu>
+		<DatumProdeje type="DateTime">2.12.2000</DatumProdeje>
+		<Cena type="Double">210000</Cena>
+		<DPH type="Double">19</DPH>
+	</vehicle>
+	<vehicle>
+		<NázevModelu type="String">Škoda Oktávia</NázevModelu>
+		<DatumProdeje type="DateTime">7.12.2010</DatumProdeje>
+		<Cena type="Double">500000</Cena>
+		<DPH type="Double">20</DPH>
+	</vehicle>
+</vehicles>
